@@ -3,7 +3,7 @@
 [1.  Programování – datové typy](otazky/1.md)  
 [2.  Programování – datové struktury a pole](otazky/2.md)  
 [3.  Programování – podprogramy a jejich využití](otazky/3.md)  
-**faktické chyby** [4.  Programování – řídící struktury](otazky/4.md)  
+**zmatená** [4.  Programování – řídící struktury](otazky/4.md)  
 [5.  Textové procesory](otazky/5.md)  
 [6.  Tabulkový kalkulátor](otazky/6.md)  
 [7.  Tvorba prezentací](otazky/7.md)  
