@@ -6,7 +6,7 @@
 **zmatená** [4.  Programování – řídící struktury](otazky/4.md)  
 [5.  Textové procesory](otazky/5.md) - [2. verze](otazky/5_1.md)  
 [6.  Tabulkový kalkulátor](otazky/6.md)  
-[7.  Tvorba prezentací](otazky/7.md)  
+[7.  Tvorba prezentací](otazky/7.md) - [2. verze](otazky/7_1.md)  
 [8.  Makra v MS Office](otazky/8.md)  
 [9.  Principy databázových systémů](otazky/9.md)  
 [10. Databáze a jejich implementace v MySQL](otazky/10.md)  
