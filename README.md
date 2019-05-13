@@ -4,7 +4,7 @@
 [2.  Programování – datové struktury a pole](otazky/2.md)  
 [3.  Programování – podprogramy a jejich využití](otazky/3.md)  
 **zmatená** [4.  Programování – řídící struktury](otazky/4.md)  
-[5.  Textové procesory](otazky/5.md)  
+[5.  Textové procesory](otazky/5.md)  [2. verze](otazky/5_1.md)  
 [6.  Tabulkový kalkulátor](otazky/6.md)  
 [7.  Tvorba prezentací](otazky/7.md)  
 [8.  Makra v MS Office](otazky/8.md)  
