@@ -25,4 +25,4 @@
 [23. HW – zařízení pro ukládání dat](otazky/23.md)  
 [24. HW – periferní zařízení](otazky/24.md)  
 [25. Informace a informatika](otazky/25.md)  
-**chybi historie pocitacu (otazky/zbytek ok)!!!** [26. Historie počítačů a operačních systémů](otazky/26.md)  
+[26. Historie počítačů a operačních systémů](otazky/26.md) - [2. Historie od Martina](otazky/9_1.md)   
