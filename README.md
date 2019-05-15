@@ -8,7 +8,7 @@
 [6.  Tabulkový kalkulátor](otazky/6.md)  
 [7.  Tvorba prezentací](otazky/7.md) - [2. verze](otazky/7_1.md)  
 [8.  Makra v MS Office](otazky/8.md)  
-[9.  Principy databázových systémů](otazky/9.md)  
+[9.  Principy databázových systémů](otazky/9.md) - [2. verze](otazky/9_1.md)  
 [10. Databáze a jejich implementace v MySQL](otazky/10.md)  
 [11. Jazyk HTML – tvorba webových stránek](otazky/11.md)  
 **chybí!!!** [12. Layout webových stránek](otazky/12.md)  
