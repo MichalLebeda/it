@@ -1,0 +1,3 @@
+SELECT knihy.nazev, studenti.jmeno FROM vypujcky
+INNER JOIN knihy on vypujcky.id_knihy = knihy.id
+INNER JOIN studenti on vypujcky.id_studenta = studenti.id
