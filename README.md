@@ -1,6 +1,8 @@
 # IT - Témata
 [Hrůšův kód: Matous](hrusashit/Matous1.py)  
 [Hrůšův kód: mrdka](hrusashit/mrdka2.py)  
+[Random poznámky](random_poznamky.py)  
+[Scitacka](scitacka.py)  
 
 [1.  Programování – datové typy](otazky/1.md)  
 [2.  Programování – datové struktury a pole](otazky/2.md)  
